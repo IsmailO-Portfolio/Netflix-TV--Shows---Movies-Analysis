@@ -104,7 +104,7 @@ All transformations were applied sequentially in Power Query to ensure data inte
   - Replaced date nulls with a base date  
 
 This ensured a clean and professional dashboard experience.
-
+## [Netflix Raw Dataset](https://github.com/IsmailO-Portfolio/Netflix-TV--Shows---Movies-Analysis/blob/main/Netflix_Raw_Data.csv.xlsx)
 ---
 
 ## 📊 Visualizations & Insights
