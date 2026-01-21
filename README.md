@@ -141,6 +141,7 @@ This ensured a clean and professional dashboard experience.
 - 📈 Interactive Charts: Hover enabled for detailed yearly insights  
 - 🌙 Dark Mode Theme: High contrast red and gray design for readability  
 
+## ![Netflix Visuals](https://github.com/IsmailO-Portfolio/Netflix-TV--Shows---Movies-Analysis/blob/main/Netflix%20Visual.png)
 ---
 
 ## 🧠 Key Takeaways
