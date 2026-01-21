@@ -33,6 +33,10 @@ This project analyzes the Netflix Movies and TV Shows dataset with the goal of p
 - ⏱️ Duration  
 - 🏷️ Type (Movie / TV Show)  
 
+
+## [Netflix Raw Dataset](https://github.com/IsmailO-Portfolio/Netflix-TV--Shows---Movies-Analysis/blob/main/Netflix_Raw_Data.csv.xlsx)
+
+
 ---
 
 ## 🛠️ Tools Used
@@ -104,7 +108,8 @@ All transformations were applied sequentially in Power Query to ensure data inte
   - Replaced date nulls with a base date  
 
 This ensured a clean and professional dashboard experience.
-## [Netflix Raw Dataset](https://github.com/IsmailO-Portfolio/Netflix-TV--Shows---Movies-Analysis/blob/main/Netflix_Raw_Data.csv.xlsx)
+
+## [NetFlix Analyzed Dataset](https://github.com/IsmailO-Portfolio/Netflix-TV--Shows---Movies-Analysis/blob/main/Netflix_Analyzed.xlsx)
 ---
 
 ## 📊 Visualizations & Insights
